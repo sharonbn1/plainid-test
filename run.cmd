@@ -1,0 +1,1 @@
+java -jar .\target\puzzle-1.0.jar
