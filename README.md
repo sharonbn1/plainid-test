@@ -4,9 +4,9 @@ My solution to PlainID programming test
 
 ## Overview, structure
 
-The solution includes a running program and some additional features that I thought completed the game.
-The solution is a maven project that produces an executable jar and includes some partial unit tests.
-The solution uses no 3rd party libraries (apart from junit).
+The solution includes a running program and some additional features that I thought completed the game.<br>
+The solution is a maven project that produces an executable jar and includes some partial unit tests.<br>
+The solution uses no 3rd party libraries (apart from junit).<br>
 
 The solution is comprised of three main components separated to packages:<br>
 * data - the data sctructure that holds the game board. it includes an interface and one implementation. this package includes unit tests.
